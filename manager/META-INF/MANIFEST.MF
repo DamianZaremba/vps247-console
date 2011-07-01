@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ httpmime-4.0.3.jar JTattoo.jar httpclient-4.0.3.ja
+ r
+Class-Path: .
+Rsrc-Main-Class: com.vps247.admin.Manager
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+

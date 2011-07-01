@@ -1,0 +1,123 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_18 (Sun Microsystems Inc.)
+
+Name: com/citrix/xenserver/console/VNCCanvas$3.class
+SHA1-Digest: oNfGG/sfGZb9M00tX5DB2UrpeQA=
+
+Name: com/citrix/xenserver/console/VNCStream.class
+SHA1-Digest: WL8GtM98OTBEu4g8t2HX83Opy9k=
+
+Name: com/citrix/xenserver/console/VNCFullscreen.class
+SHA1-Digest: Ee7z/Fr2vB2urFg8s1ZRJ4H/tgc=
+
+Name: com/citrix/xenserver/console/VNCStream$ProtocolVersion.class
+SHA1-Digest: vkkDpdpL6/JzAxFeeV15e+dLQ0I=
+
+Name: com/citrix/xenserver/console/VNCControls$5.class
+SHA1-Digest: sju4GvYIRpW2gR82qSxGdr0YWtU=
+
+Name: com/citrix/xenserver/console/VNCControls$4.class
+SHA1-Digest: zIR7Lba60d8GhVVK/pRdVLrOIug=
+
+Name: com/citrix/xenserver/console/detach_24.png
+SHA1-Digest: etlIi2q77Lvlp1eskJgUwi0cKJU=
+
+Name: com/citrix/xenserver/console/Main$1.class
+SHA1-Digest: t1m66Kqg7PlSku/+9Jm2wjI/OgE=
+
+Name: com/citrix/xenserver/console/RawHTTP.class
+SHA1-Digest: 3+1j5y+9CXyoXhwvBAeXRa60bTQ=
+
+Name: com/citrix/xenserver/console/VNCCanvas$2.class
+SHA1-Digest: oSrT15q5C6ONM7NGiKPVXVhhs4s=
+
+Name: com/citrix/xenserver/console/VNCStream$Helper.class
+SHA1-Digest: ZjNWfirZMcAV1s4vCQh3o3ffLtM=
+
+Name: com/citrix/xenserver/console/KeyMap.properties
+SHA1-Digest: Noa6berAdZi0aJsyiXQZuB2zV1Y=
+
+Name: com/citrix/xenserver/console/VNCCanvas$1.class
+SHA1-Digest: yvh96osowiKAJre5MkeyPOphhCU=
+
+Name: com/citrix/xenserver/console/VNCControls$6$1.class
+SHA1-Digest: 1enNWfvjnpcnG1tG6LY7zeWEBL0=
+
+Name: com/citrix/xenserver/console/VNCControls$5$1.class
+SHA1-Digest: xF+W4nKqqwGBXz/iPmRNY4+01As=
+
+Name: com/citrix/xenserver/console/button-graphic-console.png
+SHA1-Digest: qiFq/JIDymbxGDoIK77ljiVz7EQ=
+
+Name: com/citrix/xenserver/console/SSLHelper.class
+SHA1-Digest: xl2YI9pp7F0lJX3rBKTTB5OIwcM=
+
+Name: com/citrix/xenserver/console/VNCControls.class
+SHA1-Digest: SRGccikyThuy0BU514NbN2XcKn8=
+
+Name: com/citrix/xenserver/console/button-options.png
+SHA1-Digest: OGW0wuxITMQBjnbkr5YXAbkKn/M=
+
+Name: com/citrix/xenserver/console/VNCControls$1.class
+SHA1-Digest: XQg+N3ypdsh7kBTA7Em+eKE+4Po=
+
+Name: com/citrix/xenserver/console/VNCCanvas$4.class
+SHA1-Digest: /mft/1oV7frc2n3qGA3vvyOhXEo=
+
+Name: com/citrix/xenserver/console/VNCControls$2.class
+SHA1-Digest: vNifuOuT1J3vVadVIeDTrCscf3A=
+
+Name: com/citrix/xenserver/console/Main.class
+SHA1-Digest: S85kRBKuRDT3JOj8IAwjvMylb7s=
+
+Name: com/citrix/xenserver/console/VNCControls$6.class
+SHA1-Digest: bniMV2gU26x8gM+GFMyf+LsMfro=
+
+Name: com/citrix/xenserver/console/Initialize$1.class
+SHA1-Digest: 5Nr6Gui42qOzDePW29vb0eorbNo=
+
+Name: com/citrix/xenserver/console/KeyMap.class
+SHA1-Digest: 6+NxzS/eIVpjDx72VYxQqy49bpE=
+
+Name: com/citrix/xenserver/console/VNCPixelFormat.class
+SHA1-Digest: U71xBUQ+x+KT0c9QPxb4tsWKm48=
+
+Name: com/citrix/xenserver/console/VNCStream$Helper$2.class
+SHA1-Digest: EhuIL3XImddkL6FVspJVzP1Hy40=
+
+Name: com/citrix/xenserver/console/ConsoleListener.class
+SHA1-Digest: 3oT1nTE89ZPdwXxfPEEejq8fLBQ=
+
+Name: com/citrix/xenserver/console/VNCStream$Helper$1.class
+SHA1-Digest: b4yF30aQCsjMDWj+qezhUqZXVws=
+
+Name: com/citrix/xenserver/console/Initialize.class
+SHA1-Digest: kcf78FtyJ682zYDyaQzsNhq1d2Q=
+
+Name: com/citrix/xenserver/console/cad_24.png
+SHA1-Digest: wYSpVuhKyeMiJFveb+ubDLFvGGk=
+
+Name: com/citrix/xenserver/console/RawHTTP$1.class
+SHA1-Digest: cOjFSlaOB7/9hXzMMTiw9Djdqlw=
+
+Name: com/citrix/xenserver/console/Initialize$2.class
+SHA1-Digest: LSCzLD9H03MROBCzF9p3dou42GA=
+
+Name: com/citrix/xenserver/console/VNCClient.class
+SHA1-Digest: m+MDd6mwNZqFimW77+f7B5Hsr24=
+
+Name: com/citrix/xenserver/console/VNCControls$3.class
+SHA1-Digest: rebi5fA9ELFlyr4X6z1JqbqAMhE=
+
+Name: com/citrix/xenserver/console/ConnectionListener.class
+SHA1-Digest: onaoHzR12aXT7Do041J86v2U530=
+
+Name: com/citrix/xenserver/console/VNCCanvas.class
+SHA1-Digest: vKe116ZyHaH3jIxXl/PdTDs7UrU=
+
+Name: com/citrix/xenserver/console/VNCStream$VNCException.class
+SHA1-Digest: qC2BNwKwmpBkPR3wGpJjhSn0tcc=
+
+Name: com/citrix/xenserver/console/attach_24.png
+SHA1-Digest: Kxm+WSgQWGaK38ZbjxRVwDCMrBo=
+

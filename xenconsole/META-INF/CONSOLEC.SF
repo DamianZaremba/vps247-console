@@ -1,0 +1,125 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: s1TdOxe3gzjQrMmw0MCPecT0Dpk=
+Created-By: 1.6.0_18 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: 6xNGe/COt+NuMOnGmatP4Sdu+P4=
+
+Name: com/citrix/xenserver/console/VNCCanvas$3.class
+SHA1-Digest: 1PnQ6WO1JOT+fre1tI+HglyBW0A=
+
+Name: com/citrix/xenserver/console/VNCFullscreen.class
+SHA1-Digest: MNI6Xrairl3BG26RBRJg6kKBX4Q=
+
+Name: com/citrix/xenserver/console/VNCStream.class
+SHA1-Digest: Y0HdEBDC7O8gaUogTSzXUG2ghp4=
+
+Name: com/citrix/xenserver/console/VNCControls$5.class
+SHA1-Digest: 20tiN6MPhKAshswfqhty22pwnlQ=
+
+Name: com/citrix/xenserver/console/VNCStream$ProtocolVersion.class
+SHA1-Digest: JG0XWrpE3p6ql+qiPZl+vbJKGZY=
+
+Name: com/citrix/xenserver/console/detach_24.png
+SHA1-Digest: uLjbfRSjKFLXAeKz4ZW2oKHOuis=
+
+Name: com/citrix/xenserver/console/VNCControls$4.class
+SHA1-Digest: WNfNqAuQLV2x46gkmFRJoR5QDU0=
+
+Name: com/citrix/xenserver/console/RawHTTP.class
+SHA1-Digest: ny3M6rAEnimgyygwlk6mqEk5k04=
+
+Name: com/citrix/xenserver/console/Main$1.class
+SHA1-Digest: isM/6720ZmZa2lNwpztNAYypYSM=
+
+Name: com/citrix/xenserver/console/VNCCanvas$2.class
+SHA1-Digest: oGxSMO5fObqwzOcOk+TpFUJ1aPY=
+
+Name: com/citrix/xenserver/console/KeyMap.properties
+SHA1-Digest: 7tqBT4xnwboufSHGq6nUGfw93uU=
+
+Name: com/citrix/xenserver/console/VNCStream$Helper.class
+SHA1-Digest: zLrdbEe8fMi0rFJOZZgFsSZUyQM=
+
+Name: com/citrix/xenserver/console/VNCCanvas$1.class
+SHA1-Digest: MiavTTg23R6mlH0zg5IMzP88Y9A=
+
+Name: com/citrix/xenserver/console/VNCControls$6$1.class
+SHA1-Digest: 65uyH9dBTjEXxQT4iRgBU9/eyPA=
+
+Name: com/citrix/xenserver/console/VNCControls$5$1.class
+SHA1-Digest: 2wVqQL3OGNOrUVa+FrVm5zPgDT8=
+
+Name: com/citrix/xenserver/console/button-graphic-console.png
+SHA1-Digest: 80GqlrOwiSGnlFWd831IxfmgVqI=
+
+Name: com/citrix/xenserver/console/SSLHelper.class
+SHA1-Digest: gzWxRSCVkNOjoLJuACxCRVpnaJw=
+
+Name: com/citrix/xenserver/console/VNCControls.class
+SHA1-Digest: 0TfBWJqFma/MjN2YaUT1O0TB10Q=
+
+Name: com/citrix/xenserver/console/button-options.png
+SHA1-Digest: PTuNkElGvWb9iepvwljZOg9gBXE=
+
+Name: com/citrix/xenserver/console/VNCControls$1.class
+SHA1-Digest: HC4HWdtK1+ngK5yNPTeE+NJPBOA=
+
+Name: com/citrix/xenserver/console/VNCCanvas$4.class
+SHA1-Digest: m+BUAqSm9yqRvSOlKF5/TalwUrw=
+
+Name: com/citrix/xenserver/console/VNCControls$2.class
+SHA1-Digest: 56RhI8ny+RMgwOlQS6TmBXy3qDE=
+
+Name: com/citrix/xenserver/console/Main.class
+SHA1-Digest: RfBGPuv6TVlfCpjPrXnCPHZqmVU=
+
+Name: com/citrix/xenserver/console/VNCControls$6.class
+SHA1-Digest: Lq4zelUDiMaHWlZD4TTOlfZo764=
+
+Name: com/citrix/xenserver/console/Initialize$1.class
+SHA1-Digest: asbKF7KusDOoJUi4zDP19hqrV0E=
+
+Name: com/citrix/xenserver/console/KeyMap.class
+SHA1-Digest: 044u6Cwp0bGl+x+wj7WLgCq0uO8=
+
+Name: com/citrix/xenserver/console/VNCPixelFormat.class
+SHA1-Digest: W6tlpbTFlhdXVE9/t26zWsfLZ+A=
+
+Name: com/citrix/xenserver/console/VNCStream$Helper$2.class
+SHA1-Digest: wA9SLhPnQ3uj9GWEjQo+bFsZH7c=
+
+Name: com/citrix/xenserver/console/ConsoleListener.class
+SHA1-Digest: QCYzLJCbBo+LVVCmC3/WSzDyYSc=
+
+Name: com/citrix/xenserver/console/VNCStream$Helper$1.class
+SHA1-Digest: AG0eYktFLpQ9Cj5hYwqLjz8eY68=
+
+Name: com/citrix/xenserver/console/Initialize.class
+SHA1-Digest: NL2aKAnqDrlLOw5qgGtvPi2fSUo=
+
+Name: com/citrix/xenserver/console/RawHTTP$1.class
+SHA1-Digest: /rfjXF51iw1bI75Zdqr3xl1pO/U=
+
+Name: com/citrix/xenserver/console/cad_24.png
+SHA1-Digest: NqjPF87USb6lTo4MW+lg/g/luCY=
+
+Name: com/citrix/xenserver/console/Initialize$2.class
+SHA1-Digest: iAQMMnBDXacXCjC1SEtLcUBLbG0=
+
+Name: com/citrix/xenserver/console/VNCClient.class
+SHA1-Digest: XDNpbNugvC8orluiasat1AvmG30=
+
+Name: com/citrix/xenserver/console/ConnectionListener.class
+SHA1-Digest: 4n/QZT1gOhOe9bye+V6FBFKKmCw=
+
+Name: com/citrix/xenserver/console/VNCControls$3.class
+SHA1-Digest: XhzvYDydkbgoIxV5VtphycYKk0o=
+
+Name: com/citrix/xenserver/console/VNCCanvas.class
+SHA1-Digest: 9FhVQT2UeP3iMXDmlDMOKS9CHDY=
+
+Name: com/citrix/xenserver/console/VNCStream$VNCException.class
+SHA1-Digest: yYFweYDMo/EaJijAYi83EtcZ0Fs=
+
+Name: com/citrix/xenserver/console/attach_24.png
+SHA1-Digest: bCoe05y1JdSci3fWp1TFDbb/fOQ=
+
